@@ -45,7 +45,7 @@ cd to-do-CLI
 ### ▶️ Run the App
 
 ```bash
-python todo.py
+python task-pilot.py
 ```
 
 Your tasks are stored automatically in `tasks.json` in the same folder.
