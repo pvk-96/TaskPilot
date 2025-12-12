@@ -40,7 +40,7 @@
 
 ```bash
 git clone https://github.com/pvk-96/TaskPilot.git
-cd to-do-CLI
+cd TaskPilot
 ```
 
 ### ▶️ Run the App
