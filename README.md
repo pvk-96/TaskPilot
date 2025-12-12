@@ -39,7 +39,7 @@
 ### 🧰 Installation
 
 ```bash
-git clone https://github.com/pvk-96/to-do-CLI.git
+git clone https://github.com/pvk-96/TaskPilot.git
 cd to-do-CLI
 ```
 
